@@ -1,0 +1,1 @@
+{"description":"Your AI Therapist's Diagnosis — a funny single-line diagnosis an AI therapist gives its human (make.fun text entry).","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
